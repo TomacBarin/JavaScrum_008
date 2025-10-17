@@ -6,11 +6,12 @@
 
 const buttonHtml = document.getElementById("veryButton");
 
-
+// Second test
 // buttonHtml.addEventListener("click", function (e) {
 //     console.log(e.target);
 // })
 
+// Third and last test
 buttonHtml.addEventListener("click", function (e) {
     e.target.style.background = "black";
     e.target.style.color = "#FF2B6F";
